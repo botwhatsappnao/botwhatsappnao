@@ -58,8 +58,8 @@ you've just cloned!!
 > bash install.sh
 > npm audit fix
 
-### Usage
-```bash
+  INCIAR BOT:
+
 > npm start
 ```
 
