@@ -54,10 +54,10 @@ you've just cloned!!
 > pkg update && pkg upgrade 
 > pkg install nodejs
 > pkg install tesseract 
-> git clone https://github.com/alonecans/wansap-bot-manca
-> cd wansap-bot-manca
+> git clone https://github.com/botwhatsappnao
+> cd botwhatsappnao
 > bash install.sh
-```
+> npm audit fix
 
 ### Usage
 ```bash
@@ -68,7 +68,7 @@ you've just cloned!!
  #sosial media
 
 
-* [`WhatsApp Admin `](https://wa.me/6283815956151)
+* [`WhatsApp Admin `](https://wa.me/+5491144294789)
 
-* [`Chika Bot `](https://wa.me/994404762586)
+* [`Bot Gratis `](wa.me/+)
 
