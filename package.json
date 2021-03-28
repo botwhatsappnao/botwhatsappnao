@@ -1,5 +1,5 @@
 {
-  "name": "termux-wabot",
+  "name": "Bot-Nao",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -48,5 +48,5 @@
   "bugs": {
     "url": "https://github.com/mhankbarbar/termux-wabot/issues"
   },
-  "homepage": "https://github.com/mhankbarbar/termux-wabot#readme"
+  "homepage": "/termux-wabot#readme"
 }
