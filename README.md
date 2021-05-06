@@ -3,13 +3,26 @@ Termux
 
 # instalar 
 
-``
+``bash
+
 > pkg update && pkg upgrade 
+
+
 > pkg install nodejs
+
+
 > pkg install tesseract 
+
+
 > git clone https://github.com/botwhatsappnao/botwhatsappnao
+
+
 > cd botwhatsappnao
+
+
 > bash install.sh
+
+
 > npm audit fix
 
   INCIAR BOT:
