@@ -3,7 +3,7 @@ Termux
 
 # instalar 
 
-
+``
 > pkg update && pkg upgrade 
 > pkg install nodejs
 > pkg install tesseract 
