@@ -1,4 +1,4 @@
-# BOT DE WHATSAPP Nao
+# BOT DE WHATSAPP Lord Trees
 Termux
 
 # instalar 
